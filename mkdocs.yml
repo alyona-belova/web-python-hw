@@ -1,0 +1,16 @@
+site_name: Recipe Book
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.top
+  palette:
+    primary: green
+nav:
+  - Home: index.md
+  - Baking: baking.md
+  - Main Courses: main-courses.md
+markdown_extensions:
+  - toc:
+      toc_depth: 2

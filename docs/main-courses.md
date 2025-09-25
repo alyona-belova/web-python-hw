@@ -1,6 +1,6 @@
 # Main Courses
 
-## Mushrooms with sour cream and cheese
+## Mushrooms with sour cream and cheese 🍄‍🟫
 ### Ingredients
 - Champignons 250 g
 - 1/2 Onion
@@ -10,7 +10,7 @@
 - Black pepper
 - Salt
 
-**Steps:**  
+### Instructions: 
 1. Wash and dry champignons, cut into large pieces.  
 2. Slice onion, grate cheese.  
 3. Fry onion in oil until translucent.  
@@ -20,14 +20,14 @@
 
 ---
 
-## Baked chicken with pumpkin
+## Baked chicken with pumpkin 🎃
 ### Ingredients
 - chicken
 - pumpkin
 - an apple
 - olive oil, thyme (optional)
 
-**Steps:**  
+### Instructions:
 1. Bake sliced pumpkin with olive oil and thyme for 10–15 min at 180°C.  
 2. Fry chicken until golden.  
 3. Add chicken and apple slices to pumpkin dish.  
@@ -35,7 +35,7 @@
 
 ---
 
-## Pizza
+## Pizza 🍕
 ### Ingredients
 **For the dough:**  
 - eggs 2 pcs  
@@ -44,7 +44,7 @@
 - flour 8–9 tbsp  
 - pinch of salt  
 
-**Instructions:**  
+### Instructions:
 1. Mix dough, pour into pan with oil.  
 2. Spread ketchup, add filling and cheese.  
 3. Cover with lid, cook for 5–10 minutes.  

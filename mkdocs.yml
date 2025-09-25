@@ -7,6 +7,7 @@ theme:
     - navigation.top
   palette:
     primary: green
+  logo: images/book.png
 nav:
   - Home: index.md
   - Baking: baking.md
@@ -14,3 +15,8 @@ nav:
 markdown_extensions:
   - toc:
       toc_depth: 2
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+extra_css:
+  - stylesheets/extra.css

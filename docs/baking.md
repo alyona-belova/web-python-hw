@@ -1,6 +1,6 @@
 # Baking Recipes
 
-## Blondies
+## Blondies 🥧
 ### Ingredients
 - 0.4 cup melted butter
 - 1 cup sugar
@@ -14,7 +14,7 @@ Bake for 27 mins at 180 degrees.
 
 ---
 
-## No Bake Cheesecake
+## No Bake Cheesecake 🍰
 ### Ingredients
 - 5 oreo cookies
 - 20 g butter (1 tbsp)
@@ -27,7 +27,7 @@ Bake for 27 mins at 180 degrees.
 
 ---
 
-## Microwave Cupcake
+## Microwave Cupcake 🧁
 ### Ingredients
 - 4 tbsp flour
 - 4 tbsp sugar
@@ -42,7 +42,7 @@ Microwave for 2 minutes.
 
 ---
 
-## Waffles
+## Waffles 🧇
 ### 1st recipe
 #### Ingredients
 - 2 eggs
@@ -62,7 +62,7 @@ Microwave for 2 minutes.
 
 ---
 
-## Tiramisu without eggs
+## Tiramisu without eggs 🍮
 ### Ingredients
 **Cake base:**  
 - Savoiardi 100 g  
@@ -76,7 +76,7 @@ Microwave for 2 minutes.
 **Decoration:**  
 - Cocoa powder 15 g (1 tbsp)  
 
-### Instructions  
+### Instructions: 
 1. Prepare the crème: Mix mascarpone, heavy cream, and powdered sugar until smooth.  
 2. Quickly dip savoiardi cookies into cold coffee for 2-3 seconds. Arrange a layer of soaked biscuits on the bottom of the pan.  
 3. Spread half of the crème over the savoiardi layer. Add another layer of soaked biscuits, then cover with the remaining crème.  
@@ -85,7 +85,7 @@ Microwave for 2 minutes.
 
 ---
 
-## Super quick cookies
+## Super quick cookies 🍪
 ### Ingredients
 - Butter 50 g
 - 1 egg

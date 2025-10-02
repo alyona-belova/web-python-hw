@@ -45,10 +45,6 @@ jobs:
         run: |
           npx postcss site/css/*.css --use autoprefixer cssnano -d site/css/
 
-      - name: Minify JS
-        run: |
-          find site/js -name '*.js' -exec npx terser {} -o {} \;
-
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:

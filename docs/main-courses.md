@@ -1,6 +1,6 @@
 # Main Courses
 
-## Mushrooms with sour cream and cheese 🍄‍🟫
+## Mushrooms with sour cream and cheese
 ### Ingredients
 - Champignons 250 g
 - 1/2 Onion
@@ -20,7 +20,7 @@
 
 ---
 
-## Baked chicken with pumpkin 🎃
+## Baked chicken with pumpkin
 ### Ingredients
 - chicken
 - pumpkin
@@ -35,7 +35,7 @@
 
 ---
 
-## Pizza 🍕
+## Pizza
 ### Ingredients
 **For the dough:**  
 - eggs 2 pcs  

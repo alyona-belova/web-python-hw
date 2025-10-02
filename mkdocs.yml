@@ -1,22 +1,16 @@
 site_name: Recipe Book
+site_description: "Recipe collection"
+site_author: "Alyona Belova"
+
 theme:
-  name: material
-  language: en
-  features:
-    - navigation.tabs
-    - navigation.top
-  palette:
-    primary: green
-  logo: images/book.png
+  name: null
+  custom_dir: theme
+
 nav:
   - Home: index.md
   - Baking: baking.md
   - Main Courses: main-courses.md
+
 markdown_extensions:
   - toc:
       toc_depth: 2
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-extra_css:
-  - stylesheets/extra.css

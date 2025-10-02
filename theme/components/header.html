@@ -1,0 +1,16 @@
+<header class="site-header">
+  <div class="container">
+    <h1 class="logo">
+      <a href="{{ base_url }}/">{{ config.site_name }}</a>
+    </h1>
+    <nav class="nav">
+      <ul>
+        {% for nav_item in nav %}
+        <li class="{% if nav_item.active %}active{% endif %}">
+          <a href="{{ nav_item.url|url }}">{{ nav_item.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>

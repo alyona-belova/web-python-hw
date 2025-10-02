@@ -35,7 +35,7 @@ jobs:
           npm install -g postcss postcss-cli autoprefixer cssnano html-minifier terser html-validator-cli
 
       - name: Validate HTML
-        run: html-validator-cli --file=site/index.html --verbose
+        run: npx html-validator-cli --file=site/index.html --verbose
 
       - name: Minify HTML
         run: |

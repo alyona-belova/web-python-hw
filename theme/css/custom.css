@@ -14,10 +14,10 @@ body {
 }
 
 .site-header {
-  background: linear-gradient(135deg, #a18cd1, #fbc2eb);
+  background: linear-gradient(135deg, #CF8468, #EED498);
   color: white;
   padding: 1rem 0;
-  border-bottom: 3px solid #fbc2eb;
+  border-bottom: 3px solid #EED498;
   text-align: center;
 }
 
@@ -53,7 +53,7 @@ body {
 
 .nav .active a {
   background: white;
-  color: #a18cd1;
+  color: #CF8468;
 }
 
 .page {
@@ -65,18 +65,18 @@ body {
 }
 
 .page h1 {
-  color: #816caf;
+  color: #AD6448;
   font-size: 1.8rem;
 }
 
 .page h2,
 .page h3,
 .page h4 {
-  color: #a18cd1;
+  color: #CF8468;
 }
 
 .site-footer {
-  background: #a18cd1;
+  background: #CF8468;
   color: white;
   text-align: center;
   padding: 1rem;
